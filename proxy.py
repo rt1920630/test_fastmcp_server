@@ -3,7 +3,7 @@ from fastmcp import FastMCP
 # Create a proxy to your remote FastMCP Cloud server
 # FastMCP Cloud uses Streamable HTTP (default), so just use the /mcp URL
 mcp = FastMCP.as_proxy(
-    "https://fast-mcp-server.fastmcp.app/mcp",  # Standard FastMCP Cloud URL
+    "https://awful-chocolate-leopard.fastmcp.app/mcp",  # Standard FastMCP Cloud URL
     name="Rahul Server Proxy"
 )
 
